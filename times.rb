@@ -1,3 +1,5 @@
+counter = 0
+
 loop do
   puts "hi"
   counter+=1
